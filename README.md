@@ -27,18 +27,20 @@ A Flutter-based mobile application to manage loans, payments, interest, and tran
 
 ## 📸 Screenshots
 
-> (Add your screenshots here)
+### 🔹 Landing Screen
+![Landing](assets/screenshots/landing-screen.png)
 
-*Landing Screen
-(assets\screenshots\landing-screen.png)
-* Loan List Screen
-  (assets\screenshots\loan-list-screen.png)
-* Transaction Screen
-  (assets\screenshots\transaction-screen.png)
-* Dashboard Screen
-  (assets\screenshots\dashboard-screen.png)
-* Add Loan Form
-  (assets\screenshots\loan-register-screen.png)
+### 🔹 Loan List Screen
+![Loan List](assets/screenshots/loan-list-screen.png)
+
+### 🔹 Transaction Screen
+![Transaction](assets/screenshots/transaction-screen.png)
+
+### 🔹 Dashboard Screen
+![Dashboard](assets/screenshots/dashboard-screen.png)
+
+### 🔹 Add Loan Form
+![Add Loan](assets/screenshots/loan-register-screen.png)
 
 ---
 
