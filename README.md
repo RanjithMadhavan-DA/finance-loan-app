@@ -1,16 +1,70 @@
-# finance
+# 💰 Finance Loan Tracker App
 
-A new Flutter project.
+A Flutter-based mobile application to manage loans, payments, interest, and transaction history with a clean and premium UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 📌 Add and manage customer loans
+* 💳 Record payments and fines
+* 📊 Automatic interest calculation
+* 📒 Transaction history (like bank passbook)
+* 🔍 Search and filter loans
+* 📈 Dashboard with financial summary
+* 🎨 Clean and modern UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+* Flutter (UI Framework)
+* Dart (Programming Language)
+* Provider (State Management)
+* SQLite (Local Database)
+
+---
+
+## 📸 Screenshots
+
+> (Add your screenshots here)
+
+*Landing Screen
+(assets\screenshots\landing-screen.png)
+* Loan List Screen
+  (assets\screenshots\loan-list-screen.png)
+* Transaction Screen
+  (assets\screenshots\transaction-screen.png)
+* Dashboard Screen
+  (assets\screenshots\dashboard-screen.png)
+* Add Loan Form
+  (assets\screenshots\loan-register-screen.png)
+
+---
+
+## 🧠 How It Works
+
+* Loans are stored locally using SQLite
+* Payments and fines are tracked as transactions
+* Balance is calculated dynamically:
+
+```
+Balance = Total Amount - Amount Paid
+```
+
+---
+
+## ▶️ How to Run
+
+```
+flutter pub get
+flutter run
+```
+
+---
+
+## 👨‍💻 Author
+Ranjith K Madhavan
+(Flutter Developer)
+**Ranjith G Madhavan**
+Flutter Developer
