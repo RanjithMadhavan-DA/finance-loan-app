@@ -66,7 +66,7 @@ flutter run
 ---
 
 ## 👨‍💻 Author
-Ranjith K Madhavan
+**Ranjith K Madhavan**
 (Flutter Developer)
-**Ranjith G Madhavan**
+
 Flutter Developer
